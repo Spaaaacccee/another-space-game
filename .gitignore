@@ -1,0 +1,10 @@
+node_modules
+.vscode
+*.pptx
+*.docx
+*.pdf
+*.ts
+*.json
+webpack.config.js
+engine
+levels
